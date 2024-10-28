@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from '../assets/heroImage.png';
+import myImage from '../assets/myImage.png';
 import { MdArrowRightAlt } from "react-icons/md";
 import { Link } from 'react-scroll'
 
@@ -34,7 +34,7 @@ const Home = () => {
         {/* Right Side - Image Section */}
         <div className="flex-1 flex justify-center md:justify-end mt-8 md:mt-0">
           <img
-            src={HeroImage}
+            src={myImage}
             alt="my profile"
             className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover" // Adjusted sizes for circular shape
           />
