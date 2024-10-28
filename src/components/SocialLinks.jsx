@@ -20,7 +20,6 @@ const SocialLinks = () => {
     {
       id: 2,
       child: (
-
         <>
           GitHub
           <FaGithub size={30} />
