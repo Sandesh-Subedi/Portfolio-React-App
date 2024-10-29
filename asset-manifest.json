@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React-App/static/css/main.acac62b5.css",
+    "main.js": "/Portfolio-React-App/static/js/main.27d4a98c.js",
+    "static/media/myImage.png": "/Portfolio-React-App/static/media/myImage.39ae9032624fcf58ef89.png",
+    "static/media/FarMart.png": "/Portfolio-React-App/static/media/FarMart.dc0f50c0a3198f54677b.png",
+    "static/media/graphql.png": "/Portfolio-React-App/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/react.png": "/Portfolio-React-App/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/TBF.jpg": "/Portfolio-React-App/static/media/TBF.99c9fcbc64e6bdaead17.jpg",
+    "static/media/nextjs.png": "/Portfolio-React-App/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/Portfolio-React-App/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio-React-App/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portfolio-React-App/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio-React-App/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio-React-App/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio-React-App/index.html",
+    "main.acac62b5.css.map": "/Portfolio-React-App/static/css/main.acac62b5.css.map",
+    "main.27d4a98c.js.map": "/Portfolio-React-App/static/js/main.27d4a98c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acac62b5.css",
+    "static/js/main.27d4a98c.js"
+  ]
+}
