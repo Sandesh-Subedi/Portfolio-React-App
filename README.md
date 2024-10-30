@@ -6,7 +6,7 @@ This app isn’t just a showcase of my work; it’s designed to give you a glimp
 
 Whether you’re a potential collaborator, employer, or just someone curious about what I do, I hope you find inspiration and insight in this portfolio. Explore my projects, read about my skills, and learn a bit more about me along the way!
 
- [Check Out My Portfolio](https://atimlaa.github.io/portfolio-react-app/)
+ [Check Out My Portfolio][(https://sandesh-subedi.github.io/Portfolio-React-App/)]
 
 ## Features
 
