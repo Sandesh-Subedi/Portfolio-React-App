@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-React-App/static/css/main.acac62b5.css",
-    "main.js": "/Portfolio-React-App/static/js/main.27d4a98c.js",
+    "main.css": "/Portfolio-React-App/static/css/main.ea21a8ed.css",
+    "main.js": "/Portfolio-React-App/static/js/main.b4b7fd47.js",
     "static/media/myImage.png": "/Portfolio-React-App/static/media/myImage.39ae9032624fcf58ef89.png",
     "static/media/FarMart.png": "/Portfolio-React-App/static/media/FarMart.dc0f50c0a3198f54677b.png",
     "static/media/graphql.png": "/Portfolio-React-App/static/media/graphql.fc6b9451733c620ceb86.png",
@@ -14,11 +14,11 @@
     "static/media/css.png": "/Portfolio-React-App/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-React-App/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-React-App/index.html",
-    "main.acac62b5.css.map": "/Portfolio-React-App/static/css/main.acac62b5.css.map",
-    "main.27d4a98c.js.map": "/Portfolio-React-App/static/js/main.27d4a98c.js.map"
+    "main.ea21a8ed.css.map": "/Portfolio-React-App/static/css/main.ea21a8ed.css.map",
+    "main.b4b7fd47.js.map": "/Portfolio-React-App/static/js/main.b4b7fd47.js.map"
   },
   "entrypoints": [
-    "static/css/main.acac62b5.css",
-    "static/js/main.27d4a98c.js"
+    "static/css/main.ea21a8ed.css",
+    "static/js/main.b4b7fd47.js"
   ]
 }
